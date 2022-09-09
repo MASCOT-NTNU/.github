@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Here is MASCOT. To make intelligent sampling. 
+
 <!--
 
 **Here are some ideas to get you started:**
