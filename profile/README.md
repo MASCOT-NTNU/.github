@@ -14,7 +14,7 @@ Here is the code for the [MASCOT project](https://wiki.math.ntnu.no/mascot). We 
 
 [CALMSEA](https://github.com/MASCOT-NTNU/CALMSEA): Locating high densities of zooplankton or Chlorophyll A
 
-The code is implemented on LAUVs from [OceanScan](https://www.oceanscan-mst.com/) and tested in field tests in Portugal and Norway. 
+The code is implemented on LAUVs from [OceanScan](https://www.oceanscan-mst.com/) and used in several field tests in Portugal and Norway. 
 
 
 
