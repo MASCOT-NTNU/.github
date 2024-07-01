@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Here is the code for the MASCOT project [MASCOT project](https://wiki.math.ntnu.no/mascot).
 Here is MASCOT. To make intelligent sampling. 
 
 <!--
