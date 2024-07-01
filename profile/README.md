@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here is the code for the [MASCOT project](https://wiki.math.ntnu.no/mascot). We want to utilise onboard statistical model to improve real time descicions on where and when to sample. 
+Here is the code for the [MASCOT project](https://wiki.math.ntnu.no/mascot). We are intersted in improving how we sample with AUVs. We utilise onboard statistical model to improve real time descicions on where and when to sample. 
 
 
 ## Repo overwiev:
