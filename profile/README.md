@@ -4,9 +4,9 @@ Here is the code for the [MASCOT project](https://wiki.math.ntnu.no/mascot). We 
 
 
 ## Repo overwiev:
-[GOOGLE](https://github.com/MASCOT-NTNU/GOOGLE): Long-Horizon Informative Path Planning with Obstacles and Time Constraints
+[RRTCV](https://github.com/MASCOT-NTNU/RRTCV): RRT*-Enhanced Long-Horizon Path Planning for AUV Adaptive Sampling using a Cost Valley
 
-[TAICHI](https://github.com/MASCOT-NTNU/TAICHI):
+[TAICHI](https://github.com/MASCOT-NTNU/TAICHI): Twined Autonomous Informative Cooperative Hotspot Inquiry system
 
 [MAFIA](https://github.com/MASCOT-NTNU/MAFIA): Spatially varying anisotropy for Gaussian random fields in three-dimensional space
 
